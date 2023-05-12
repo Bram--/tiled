@@ -11,6 +11,7 @@ Project {
         "json",
         "json1",
         "lua",
+        "protobuf",
         "python",
         "replicaisland",
         "rpmap",

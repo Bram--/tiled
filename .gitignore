@@ -38,3 +38,6 @@ gmon.out
 # Vim files
 *.swp
 *.swo
+
+# Intellij files
+.idea/
